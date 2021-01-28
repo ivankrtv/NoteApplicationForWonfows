@@ -1,0 +1,4 @@
+﻿  Note.cpp
+D:\Users\User\source\repos\Note\Note\resource.h(25,1): warning C4005: WM_CUT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(2468): message : см. предыдущее определение "WM_CUT"
+  Note.vcxproj -> D:\Users\User\source\repos\Note\x64\Debug\Note.exe
